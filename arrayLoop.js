@@ -47,3 +47,11 @@ const colors = ['red', 'blue', 'green', 'yellow', 'orange'];
 //     newStr = newStr.concat(strAr[i] + ' ');
 // }
 // console.log(newStr);
+
+
+// for (var i = 0; i < 5; i++) {
+//     setTimeout(function () {
+//             console.log(i);
+//         },
+//  );
+// }
